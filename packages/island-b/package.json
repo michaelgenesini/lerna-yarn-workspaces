@@ -1,8 +1,11 @@
 {
-  "name": "@pp/island-a",
+  "name": "@pp/island-b",
   "version": "2.36.0",
   "private": true,
   "dependencies": {
     "@pp/utils": "2.36.0"
+  },
+  "devDependencies": {
+    "axios": "0.18.0"
   }
 }

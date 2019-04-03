@@ -1,8 +1,0 @@
-{
-  "name": "@pp/island-b",
-  "version": "2.36.0",
-  "private": true,
-  "dependencies": {
-    "@pp/utils": "2.36.0"
-  }
-}

@@ -1,0 +1,9 @@
+{
+  "name": "@pp/island-a",
+  "version": "2.36.0",
+  "private": true,
+  "dependencies": {
+    "@pp/utils": "2.36.0",
+    "cross-env": "5.0.5"
+  }
+}
