@@ -1,0 +1,8 @@
+{
+  "name": "@pp/utils",
+  "version": "2.36.0",
+  "private": true,
+  "devDependencies": {
+    "@pp/constants": "2.36.0"
+  }
+}

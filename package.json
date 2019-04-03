@@ -1,0 +1,14 @@
+{
+  "name": "lerna-yarn-workspaces",
+  "private": true,
+  "workspaces": [
+    "packages/core/constants/*",
+    "packages/core/utils/*",
+    "packages/islands/island-a/*",
+    "packages/islands/island-b/*"
+  ],
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}
